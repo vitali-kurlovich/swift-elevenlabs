@@ -3,3 +3,6 @@
 *.xcodeproj
 Package.resolved
 .DS_Store
+FluidSpeech/.build/
+FluidSpeech/build/
+__pycache__/
